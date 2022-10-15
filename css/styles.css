@@ -5,15 +5,15 @@ body {
   font-family: monospace;
 }
 .intro {
-  width: 50%;
+  width: 30%;
   margin: auto;
 }
 .experiencia{
-  width: 50%;
+  width: 30%;
   margin: auto;
 }
 .projectos {
-  width: 50%;
+  width: 30%;
   margin: auto;
 }
 hr {
