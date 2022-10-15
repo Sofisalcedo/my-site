@@ -8,7 +8,14 @@ body {
   width: 30%;
   margin: auto;
 }
-
+.experiencia{
+  width: 30%;
+  margin: auto;
+}
+.projectos {
+  width: 30%;
+  margin: auto;
+}
 hr {
   border-color: #ABC9FF;
   border-style: none;
